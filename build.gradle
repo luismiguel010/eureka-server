@@ -36,6 +36,8 @@ dependencies {
 	compile group: 'de.codecentric', name: 'spring-boot-admin-server', version: '2.2.2'
 	compile group: 'de.codecentric', name: 'spring-boot-admin-server-ui', version: '2.2.2'
 
+	compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-config', version: '2.2.1.RELEASE'
+
 }
 
 dependencyManagement {
