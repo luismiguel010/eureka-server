@@ -38,8 +38,6 @@ dependencies {
 
 	compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-config', version: '2.2.1.RELEASE'
 
-	compile group: 'org.springframework.boot', name: 'spring-boot-starter-security', version: '2.2.1.RELEASE'
-	compile group: 'de.codecentric', name: 'spring-boot-admin-server-ui-login', version: '1.5.1'
 
 }
 
